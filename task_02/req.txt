@@ -1,0 +1,7 @@
+pandas
+matplotlib
+scipy
+networkx
+fast-matrix-market
+python-graphblas[default]
+ipykernel
