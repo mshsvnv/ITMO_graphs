@@ -1,7 +1,8 @@
+numpy
 pandas
-matplotlib
 scipy
+matplotlib
 networkx
+python-graphblas
 fast-matrix-market
-python-graphblas[default]
 ipykernel
