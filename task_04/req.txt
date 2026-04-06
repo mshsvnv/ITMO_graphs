@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+networkx
+python-graphblas
+graphblas-algorithms
+fast-matrix-market
+ipykernel
