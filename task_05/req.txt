@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+networkx
+python-graphblas
+fast-matrix-market
+ipykernel
+memory-profiler
